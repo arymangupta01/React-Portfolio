@@ -35,4 +35,4 @@ The form modal of the contact section is setup using SDK and an email template f
 
 
 ## Credit
-This project was built following a tutorial by Cryptical Coder. It can be found [here](https://www.youtube.com/watch?v=3aCoZudPEKE&t=143s&ab_channel=CrypticalCoder) if you'd like to give it a try.
+The idea was taken from a tutorial by Cryptical Coder. It can be found [here](https://www.youtube.com/watch?v=3aCoZudPEKE&t=143s&ab_channel=CrypticalCoder) if you'd like to give it a try.
